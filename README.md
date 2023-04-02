@@ -172,8 +172,8 @@ If not found, php and python modoules will be installed on first run
 
 ## [~] Find Me on :
 
-- [![Github](https://img.shields.io/badge/Github-KasRoudra-purple?style=for-the-badge&logo=github)](https://github.com/Keshavah-reddy)
+- [![Github](GITHUB)](https://github.com/Keshavah-reddy)
 
 
-- [![Telegram](https://img.shields.io/badge/Telegram-KasRoudra-indigo?style=for-the-badge&logo=telegram)](https://t.me/keshav_vah)
+- [![Telegram](TELEGRAM)](https://t.me/keshav_vah)
 
