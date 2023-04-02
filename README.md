@@ -150,29 +150,7 @@ If not found, php and python modoules will be installed on first run
 ![meow-v2](https://raw.githubusercontent.com/Keshavah-reddy/meow-v2/main/files/meow-v2.gif)
 
 
-## Whats new in 1.8?
- - *Mailing*
-   - Now you can send credentials to any email. You just need a gmail and app password to use this feature. Edit the data in `files/email.json`
- - *Custom Preview*
-   - Now you can set a custom social media preview of your link. Enter a website url when asked in `shadow url`. Your link will have same appearence as that website in whatsapp/messenger/telegram etc. Note this only works with Cloudflared urls
- - *OTP Support*
-   - 20 templates will show an option to enable otp pages
- - *Saved*
-   - An option to view all saved credentials just from meow-v2. This credentials won't get deleted in meow-v2 update
-
-## Whats new in 1.9?
- - *Loclx*
-   - Introducing a new port forwarding/tunneling service named localxpose or loclx. It is quite slower but still usable
- - *Docker image*
-   - A docker image is published which can be pulled and run
- - *PIP*
-   - This project is now also available in PIP
-
-## Whats new in 2.0?
- - *LocalHostRun*
-   - Introducing a new port forwarding/tunneling service named localhost.run. It works over ssh without binaries
- - *Redirection url*
-   - Users can decide where the victim will be redirected after data is captured
+**Users can decide where the victim will be redirected after data is captured**
 
 ## Solution of common issues
  - Some secured browsers like Firefox can warn for '@' prefixed links. You should use pure links or custom link to avoid it.
